@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+    <MainMenu>
+        <mnuFile>hojjat(&amp;F)</mnuFile>
+        <mnuFileExport>HTML kilip saklax(&amp;E)...</mnuFileExport>
+        <mnuFileExit>qikinix(&amp;X)</mnuFileExit>
+        <mnuAction>maxhulat(&amp;A)</mnuAction>
+        <mnuActionUninstall>yuyux(&amp;U)...</mnuActionUninstall>
+        <mnuActionModify>ozgartix(&amp;M)...</mnuActionModify>
+        <mnuActionDelete>majbury yuyux(&amp;F)</mnuActionDelete>
+        <mnuActionDeleteBatch>toplap &amp;majburuy yuyux l</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>turni yuyux(&amp;E)</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>toplap yuyux &amp;Entries</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>注册表 malumati(&amp;R)</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>kaqiligan hojjat kiskuq(&amp;I)</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>programma tor bikiti(&amp;P)</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Microsoft Store da eqix</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>programmining orni...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>kilix manbasi...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Google da izdax</mnuActionGoogleFor>
+        <mnuView>kvrvx(&amp;V)</mnuView>
+        <mnuViewDesktopApps>ustal yvzi apliri</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Microsoft Store Appliri</mnuViewWinStoreApps>
+        <mnuViewRefresh>yingilax(&amp;R)</mnuViewRefresh>
+        <mnuViewListColumnsReset>ratni asliga kayturux</mnuViewListColumnsReset>
+        <mnuViewColorScheme>rang tangxiki</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>kompiyuterga agixip kiqa/kvndvz ozgirix</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>kvndvz haliti (konguldiki kimmat)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>kiqa haliti</mnuViewColorSchemeDark>
+        <mnuViewLanguage>til</mnuViewLanguage>
+        <mnuHelp>yardam(&amp;H)</mnuHelp>
+        <mnuHelpAbout>hakkida(&amp;A)...</mnuHelpAbout>
+        <mnuHelpHomePage>tor bikat</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>programma ismi</columnProgramName>
+        <columnSize>qong kiqikliki</columnSize>
+        <columnInstallationDate>kaqiligan wakit</columnInstallationDate>
+        <staticLoading>yvkliniwatidu...</staticLoading>
+        <staticNoItemsMatchingFilterTip>tipilmidi, ESC ni bisip jfyturung</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Microsoft Store ning apliri yokmu kanda</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bit)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>programminig ismini kirgvzvng</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>kalduk hojjgt, hojjat kiskuq wa 注册表 sikanirliniwatidu...</statusScanning>
+        <statusLeftOverTracesFound>kalduk baykaldi!</statusLeftOverTracesFound>
+        <statusNothingFound>kalduk yokka。</statusNothingFound>
+        <statusAllTracesRemoved>kaldukla yuyuwetildi</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>programma kaldukini tazlawatidu...</statusDeletingProgramTraces>
+        <treeItemFileSystem>hojjat sistimisi (%d dana)</treeItemFileSystem>
+        <treeItemRegistry>注册表 (%d dana)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>korux...</treeItemPopopMenuBrowse>
+        <btnFinish>haa</btnFinish>
+        <btnCancel>yak</btnCancel>
+        <btnClose>takax</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>Geek Uninstaller hakkida</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>yuyux maglup boldi。\nmazkur progmaminig 注册表 diki sanlik malumatlirini yuyamsiz?</msgUninstallFailed>
+        <msgForceRemovalQuestion>majburi yuyamsiz?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>yuyamsiz?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>注册表 uqurini yuyux maglup boldi。\nhokuk yatmidi。</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>yingi naxri %s bfyjfldh。</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>GeekUninstaller yingiliduk! tor bitimizdin yingi naxrini qvxvrewiling!</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>ali dgrijilik naxri(Pro)ga osturux</statusMessage>
+        <WhatsCool>ali darijilik naxrining alahidiliki:</WhatsCool>
+        <Feature1>yingi kaqiligan aplarni kvzitix</Feature1>
+        <Feature2>omumiyvzlvk tazilax</Feature2>
+        <Feature3>kompiyuter bilan tang kozgilidigan aplarni baxkurux</Feature3>
+        <Feature4>zamaniwi yvz, yardam</Feature4>
+        <Feature5>toplap qikirip taxlax</Feature5>
+        <buttonUpgrade>yingilayma</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML hojjiti</htmlFiles>
+        <allFiles>所有文件</allFiles>
+        <generatedByOn> %s din  %s ni hasil kilix</generatedByOn>
+        <installedPrograms>programma kaqilandi (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>haaa</btnOK>
+        <btnCancel>yak</btnCancel>
+        <btnHelp>yardam</btnHelp>
+        <btnYes>ha</btnYes>
+        <btnNo>yak</btnNo>
+        <btnClose>taka</btnClose>
+        <statusTotalInfo>jamy %d dana hojjat %s lik yani igilidi</statusTotalInfo>
+        <statusUnknown>namalum</statusUnknown>
+        <WindowsUpdatesText>Windows yingilax</WindowsUpdatesText>
+    </Misc>
+</LanguageStrings>
